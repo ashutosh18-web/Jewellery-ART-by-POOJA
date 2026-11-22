@@ -2,6 +2,11 @@
 
 > Fine jewellery storefront built as one continuous camera move on the scrollbar.
 
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Website-2bf0ee?style=for-the-badge&logoColor=060809&labelColor=060809)](https://ashutosh18-web.github.io/pooja/)
+
+🔗 **Live Website Demo**: [https://ashutosh18-web.github.io/pooja/](https://ashutosh18-web.github.io/pooja/)  
+*(Or your Vercel / Netlify deployment URL)*
+
 "POOJA — The Deep End" is an immersive digital storefront for a fine-jewellery house. It opens at night on a woman in black seated at the edge of a lit pool, Paraíba-blue stones at her ears, throat, and hand. 
 
 As the visitor scrolls, the camera cranes up to her face, zooms into a macro shot of the earring, tracks down her neck to the pendant, and glides down to the ring on her hand. Each time the camera settles on a piece, an ivory product card slides in while the film narrows dynamically to keep the jewel perfectly framed. The film rewinds fast to the opening wide shot, an ivory sheet rises with the complete collection, and the page concludes on the oversized **POOJA** wordmark and private viewing request form.
