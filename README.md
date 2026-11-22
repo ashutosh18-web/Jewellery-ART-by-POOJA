@@ -2,9 +2,9 @@
 
 > Fine jewellery storefront built as one continuous camera move on the scrollbar.
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Website-2bf0ee?style=for-the-badge&logoColor=060809&labelColor=060809)](https://ashutosh18-web.github.io/pooja/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Website-2bf0ee?style=for-the-badge&logoColor=060809&labelColor=060809)](https://ashutosh18-web.github.io/Jewellery-ART-by-POOJA/)
 
-🔗 **Live Website Demo**: [https://ashutosh18-web.github.io/pooja/](https://ashutosh18-web.github.io/pooja/)  
+🔗 **Live Website Demo**: [https://ashutosh18-web.github.io/Jewellery-ART-by-POOJA/](https://ashutosh18-web.github.io/Jewellery-ART-by-POOJA/)  
 *(Or your Vercel / Netlify deployment URL)*
 
 "POOJA — The Deep End" is an immersive digital storefront for a fine-jewellery house. It opens at night on a woman in black seated at the edge of a lit pool, Paraíba-blue stones at her ears, throat, and hand. 
@@ -63,8 +63,8 @@ As the visitor scrolls, the camera cranes up to her face, zooms into a macro sho
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashutosh18-web/pooja.git
-   cd pooja
+   git clone https://github.com/ashutosh18-web/Jewellery-ART-by-POOJA.git
+   cd Jewellery-ART-by-POOJA
    ```
 
 2. Install dependencies:
